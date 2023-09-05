@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我叫何继安，是计科3班的学生。
 
 <!--
 **muxingtong/muxingtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
