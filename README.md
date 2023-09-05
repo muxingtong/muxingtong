@@ -1,4 +1,4 @@
-### 我叫何继安，是计科3班的学生。
+### 我是计科三班的何继安，性格随和，喜欢学习新知识和技术，对安全方面比较有兴趣，学习过一些前端技术。希望能和大家多多交流，一起学习，共同进步。
 
 <!--
 **muxingtong/muxingtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
