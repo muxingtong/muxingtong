@@ -73,7 +73,7 @@ if __name__ == "__main__":
     text1 = readfile(a)
     text2 = readfile(b)
     duplicates = find_duplicates([text1, text2],sim)
-    writefile(c,str(sim))
-    print("相似度列表已写入文件")
+    if(writefile(c,str(sim))):
+        print("相似度列表已写入文件")
 endtime = time.time()
 print("程序运行时间为：",endtime-starttime)
